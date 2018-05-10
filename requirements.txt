@@ -1,1 +1,4 @@
 numpy==1.14.3
+requests==2.18.4
+slackclient==1.2.1
+slackeventsapi==1.1.0
